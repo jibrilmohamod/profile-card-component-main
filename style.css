@@ -93,6 +93,9 @@ p {
 }
 
 @media (min-width: 767px) {
+    html {
+        background-size: 50%, 50%;
+    }
     .profile {
         width: 20%;
     }
