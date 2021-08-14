@@ -6,7 +6,7 @@
 }
 
 html {
-    background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+    background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
     background-position: top -60% left, right bottom -50%;
     ;
     background-repeat: no-repeat, no-repeat;
