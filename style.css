@@ -37,7 +37,7 @@ main {
 }
 
 header {
-    background-image: url(/images/bg-pattern-card.svg);
+    background-image: url(images/bg-pattern-card.svg);
     height: 30%;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
